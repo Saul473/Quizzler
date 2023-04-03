@@ -24,7 +24,7 @@ button:hover {
     background-color: #ffd000;
 }
 
-#quizSection, #quizbox, #scoresPage {
+#quizSection, #quizbox, #scoresPage, #startMenu {
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -32,7 +32,7 @@ button:hover {
     align-items: center;
 }
 
-#question, #timer, #leaderboard {
+#question, #timer, #leaderboard, h1 {
     font-size: 50px;
     color: white;
 }
