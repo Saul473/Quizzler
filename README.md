@@ -10,19 +10,19 @@ _______________________________________________________
 
 ## Main Menu 
 
-![Main Menu](./Quizzler/assets/images/Menu%20Page.PNG)
+![Main Menu](./assets/images/Menu%20Page.PNG)
 
 ____________________________________________________
 
 ## Quiz 
 
-![Quiz](./Quizzler/assets/images/Quiz.PNG)
+![Quiz](./assets/images/Quiz.PNG)
 
 _______________________________________________________
 
 ## Leaderboard
 
-![Leaderboard](./Quizzler/assets/images/Leaderboard.PNG)
+![Leaderboard](./assets/images/Leaderboard.PNG)
 
 ______________________________________________________
 
