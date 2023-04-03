@@ -1,0 +1,44 @@
+body {
+    height:100vh;
+    margin: 0px;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+#startMenu, #endGame, #scoresPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    
+}
+
+button {
+    margin: 20px; 
+    padding: 10px;
+    border-radius: 15px;
+    background-color: #fd7e14;
+}
+
+button:hover {
+    background-color: #ffd000;
+}
+
+#quizSection, #quizbox, #scoresPage {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#question, #timer, #leaderboard {
+    font-size: 50px;
+    color: white;
+}
+
+#question {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
