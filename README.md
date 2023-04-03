@@ -4,7 +4,7 @@ Welcome to El Quiz! This is a quiz game that generates 5 coding questions for us
 
 ________________________________________________
 
-## Deployed Page URL: http://127.0.0.1:5500/Quizzler/index.html
+## Deployed Page URL: https://saul473.github.io/Quizzler/
 
 _______________________________________________________
 
